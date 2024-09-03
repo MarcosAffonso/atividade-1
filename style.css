@@ -1,0 +1,7 @@
+body {
+background: linear-gradient(to bottom, Red, Black);}
+h1{color: blue; text-align: center;}
+
+	p{font-size: 16px; color: darkgray; margin: 20px;}
+	ul{color: black; padding-left: 30px;}
+	img{border: 3px dashed blue;}
